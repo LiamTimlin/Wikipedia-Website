@@ -1,0 +1,24 @@
+body{
+    margin: 0 auto;
+    padding: 0 0 0 2%;
+    font-family: sans-serif;
+    
+}
+h1{
+    border-bottom: 1px solid #a2a9b1;
+    margin-bottom: 0.25em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#subTitle{
+    font-size: 92%;
+}
+
+.textBody{
+width: 60%;
+color: #202122;
+font-size: calc(1em * 0.875);
+line-height: 1.6;
+margin: 0.5em 0;
+}
+
